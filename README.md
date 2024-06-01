@@ -1,4 +1,4 @@
-# flutter_default_skeleton_app
+# flutter feature first app sample
 
 A new Flutter project.
 
